@@ -15,7 +15,7 @@ for i in range(1, N-1):
     if A[0][1] != A[i][0] and A[0][1] != A[i][1]:
         flag2 = False
 
-if flag1==True or flag2==True:
+if flag1 or flag2:
     print("Yes")
 else:
     print("No")
