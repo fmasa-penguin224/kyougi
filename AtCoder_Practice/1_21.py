@@ -12,4 +12,4 @@ flag = math.sqrt(heiho).is_integer()
 if flag:
     print("Yes")
 else:
-    print("No")
+    print("Noあああああ")
